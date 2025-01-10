@@ -11,7 +11,7 @@ Ferramenta criada com o objetivo de realizar medidas de performance da internet 
   git clone https://github.com/Rodrigo-Kelven/Speed-Test
   cd Speed-Test
   pip install -r requirements.txt
-  python3 speed_test.py
+  python3 Speed-Test.py
 ```
 
 ## Contribuições
